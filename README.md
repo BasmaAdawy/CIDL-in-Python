@@ -34,3 +34,4 @@ Colab Notebooks:
   
 **week10:**
 - https://colab.research.google.com/drive/1kWBNprOPgldqWJtJC0YOXMVIA8ZSUZZC?usp=sharing
+- https://colab.research.google.com/drive/1WuveXOa5-z0bglCKjxlpBoM3BhtjogP-#scrollTo=dY9wKjDFjhmG
