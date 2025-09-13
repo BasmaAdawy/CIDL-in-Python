@@ -1,8 +1,9 @@
 # CIDL-in-Python
-Notebooks for Symbolic and Evolutionary Artificial Intelligence course @Unipi (AIDE master degree)
-drive link https://drive.google.com/drive/folders/1HSnu2_x73gJc9wsCdBWN_qQdaJaUOB04?usp=sharing
+## Notebooks for COMPUTATIONAL INTELLIGENCE AND DEEP LEARNING course @Unipi (AIDE master degree) 
+### Teacher pro. MARCO COCOCCIONI
+#### drive link https://drive.google.com/drive/folders/1HSnu2_x73gJc9wsCdBWN_qQdaJaUOB04?usp=sharing
 
-Colab Notebooks:
+## Colab Notebooks links:
 
 **week2&3:**
 - https://colab.research.google.com/drive/1p64lovDOg8fLib5bGPiKsK4ARTfoeNOq?authuser=3
