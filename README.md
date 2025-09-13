@@ -1,7 +1,7 @@
 # CIDL-in-Python
 ## Notebooks for COMPUTATIONAL INTELLIGENCE AND DEEP LEARNING course @Unipi (AIDE master degree) 
 ### Teacher pro. MARCO COCOCCIONI
-#### drive link https://drive.google.com/drive/folders/1HSnu2_x73gJc9wsCdBWN_qQdaJaUOB04?usp=sharing
+#### drive link for all notebooks https://drive.google.com/drive/folders/1HSnu2_x73gJc9wsCdBWN_qQdaJaUOB04?usp=sharing
 
 ## Colab Notebooks links:
 
